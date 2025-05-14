@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "PackagePath": "staticwebassets\\images\\bisell.jpg"
+    },
+    {
+      "Id": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "PackagePath": "staticwebassets\\images\\bosch.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BackendRentall.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BackendRentall.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BackendRentall.props",
+      "PackagePath": "build\\BackendRentall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BackendRentall.props",
+      "PackagePath": "buildMultiTargeting\\BackendRentall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BackendRentall.props",
+      "PackagePath": "buildTransitive\\BackendRentall.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

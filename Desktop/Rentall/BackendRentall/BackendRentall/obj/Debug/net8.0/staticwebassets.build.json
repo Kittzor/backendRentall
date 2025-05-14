@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "p+smntSXor4TAA8+AS9++NNjJeui1dIhQDY90JVxNAM=",
+  "Source": "BackendRentall",
+  "BasePath": "_content/BackendRentall",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BackendRentall\\wwwroot",
+      "Source": "BackendRentall",
+      "ContentRoot": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "BasePath": "_content/BackendRentall",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "SourceId": "BackendRentall",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "BasePath": "_content/BackendRentall",
+      "RelativePath": "images/bisell#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wyixzni3lh",
+      "Integrity": "SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX+E0+K2rqeATU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bisell.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "SourceId": "BackendRentall",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "BasePath": "_content/BackendRentall",
+      "RelativePath": "images/bosch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iuvi2f4u3e",
+      "Integrity": "RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bosch.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/bisell.jpg",
+      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX+E0+K2rqeATU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 09:30:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX+E0+K2rqeATU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bisell.wyixzni3lh.jpg",
+      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX+E0+K2rqeATU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 09:30:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wyixzni3lh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bisell.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX+E0+K2rqeATU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bosch.iuvi2f4u3e.jpg",
+      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 09:33:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iuvi2f4u3e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bosch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/bosch.jpg",
+      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 09:33:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y="
+        }
+      ]
+    }
+  ]
+}

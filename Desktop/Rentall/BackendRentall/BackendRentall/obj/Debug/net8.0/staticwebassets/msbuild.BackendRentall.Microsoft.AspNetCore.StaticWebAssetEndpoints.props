@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BackendRentall/images/bisell.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bisell.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX\u002BE0\u002BK2rqeATU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"50666"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX\u002BE0\u002BK2rqeATU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 09:30:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BackendRentall/images/bisell.wyixzni3lh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bisell.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wyixzni3lh"},{"Name":"integrity","Value":"sha256-SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX\u002BE0\u002BK2rqeATU="},{"Name":"label","Value":"_content/BackendRentall/images/bisell.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"50666"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SH0wRJcP/sIg0WGH/C8cR6G2ho8RDRX\u002BE0\u002BK2rqeATU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 09:30:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BackendRentall/images/bosch.iuvi2f4u3e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bosch.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iuvi2f4u3e"},{"Name":"integrity","Value":"sha256-RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y="},{"Name":"label","Value":"_content/BackendRentall/images/bosch.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48108"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 09:33:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BackendRentall/images/bosch.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bosch.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48108"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RvCsIVhVvRmnnPQbMGxQBu1wZ7eEQQPyRaWbCzv0K0Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 09:33:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
