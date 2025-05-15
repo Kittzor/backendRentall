@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj": {}
+    "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj": {
+    "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj",
         "projectName": "BackendRentall",
-        "projectPath": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj",
+        "projectPath": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\BackendRentall.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

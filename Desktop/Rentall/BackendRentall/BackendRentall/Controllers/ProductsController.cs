@@ -47,7 +47,9 @@ namespace BackendRentall.Controllers
                 Name = dto.Name,
                 Description = dto.Description,
                 Price = dto.Price,
-                ImageUrl = "" // to be set below
+                ImageUrl = "",
+                CreatedBy = dto.CreatedBy,
+                
             };
 
             if (dto.Image != null && dto.Image.Length > 0)
@@ -70,6 +72,26 @@ namespace BackendRentall.Controllers
             await _context.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, product);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteProduct(int id, [FromBody] DeleteRequestDto request)
+        {
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
+            {
+                return NotFound(new { message = "Product not found" });
+            }
+
+            if (product.CreatedBy != request.Username)
+            {
+                return Forbid();
+            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync();
+            
+            return NoContent();
         }
     }
 }
