@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p+smntSXor4TAA8+AS9++NNjJeui1dIhQDY90JVxNAM=",
+  "Hash": "UXxcxnJ/jxcnASQI2U2PPUZ8klsdOnvdrpZGhXWsoKU=",
   "Source": "BackendRentall",
   "BasePath": "_content/BackendRentall",
   "Mode": "Default",
@@ -10,17 +10,59 @@
     {
       "Name": "BackendRentall\\wwwroot",
       "Source": "BackendRentall",
-      "ContentRoot": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
       "BasePath": "_content/BackendRentall",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "Identity": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\1f265398-d7ea-4efc-bd0b-8b3ff6653fea.png",
       "SourceId": "BackendRentall",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "BasePath": "_content/BackendRentall",
+      "RelativePath": "images/1f265398-d7ea-4efc-bd0b-8b3ff6653fea#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1743d7wbq",
+      "Integrity": "VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1f265398-d7ea-4efc-bd0b-8b3ff6653fea.png"
+    },
+    {
+      "Identity": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\36c6951a-78c6-4e10-a1b2-6fbbffe76788.png",
+      "SourceId": "BackendRentall",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "BasePath": "_content/BackendRentall",
+      "RelativePath": "images/36c6951a-78c6-4e10-a1b2-6fbbffe76788#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1743d7wbq",
+      "Integrity": "VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\36c6951a-78c6-4e10-a1b2-6fbbffe76788.png"
+    },
+    {
+      "Identity": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "SourceId": "BackendRentall",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
       "BasePath": "_content/BackendRentall",
       "RelativePath": "images/bisell#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bisell.jpg"
     },
     {
-      "Identity": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "Identity": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
       "SourceId": "BackendRentall",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\",
       "BasePath": "_content/BackendRentall",
       "RelativePath": "images/bosch#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -61,8 +103,172 @@
   ],
   "Endpoints": [
     {
+      "Route": "images/1f265398-d7ea-4efc-bd0b-8b3ff6653fea.o1743d7wbq.png",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\1f265398-d7ea-4efc-bd0b-8b3ff6653fea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 19:58:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1743d7wbq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1f265398-d7ea-4efc-bd0b-8b3ff6653fea.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f265398-d7ea-4efc-bd0b-8b3ff6653fea.png",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\1f265398-d7ea-4efc-bd0b-8b3ff6653fea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 19:58:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE="
+        }
+      ]
+    },
+    {
+      "Route": "images/36c6951a-78c6-4e10-a1b2-6fbbffe76788.o1743d7wbq.png",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\36c6951a-78c6-4e10-a1b2-6fbbffe76788.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 19:58:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1743d7wbq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/36c6951a-78c6-4e10-a1b2-6fbbffe76788.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE="
+        }
+      ]
+    },
+    {
+      "Route": "images/36c6951a-78c6-4e10-a1b2-6fbbffe76788.png",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\36c6951a-78c6-4e10-a1b2-6fbbffe76788.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 19:58:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFzRpkqSw8i8mzK7PAXweAyvBV+LmxEJdjZyf7Kd+aE="
+        }
+      ]
+    },
+    {
       "Route": "images/bisell.jpg",
-      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,7 +305,7 @@
     },
     {
       "Route": "images/bisell.wyixzni3lh.jpg",
-      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bisell.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -144,7 +350,7 @@
     },
     {
       "Route": "images/bosch.iuvi2f4u3e.jpg",
-      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -189,7 +395,7 @@
     },
     {
       "Route": "images/bosch.jpg",
-      "AssetFile": "C:\\Users\\chris\\desktop\\rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
+      "AssetFile": "C:\\Users\\chris\\Desktop\\Rentall\\BackendRentall\\BackendRentall\\wwwroot\\images\\bosch.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {

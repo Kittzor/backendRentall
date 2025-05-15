@@ -13,5 +13,8 @@ namespace BackendRentall.Dto
         public decimal Price { get; set; }
 
         public IFormFile Image { get; set; }
+
+        [Required]
+        public string CreatedBy { get; set; }
     }
 }

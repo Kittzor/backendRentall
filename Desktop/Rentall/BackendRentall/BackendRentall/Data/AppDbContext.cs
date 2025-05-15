@@ -20,8 +20,8 @@ namespace BackendRentall.Data
             base.OnModelCreating(builder);
 
             builder.Entity<Product>().HasData(
-                new Product { Id = 1, Name = "Bisell", Description = "Iphone", Price = 9000, ImageUrl = "/images/bisell.jpg" },
-                new Product { Id = 2, Name = "Bosch", Description = "Asus", Price = 12000, ImageUrl = "/images/bosch.jpg" }
+                new Product { Id = 1, Name = "Bisell", Description = "Iphone", Price = 9000, ImageUrl = "/images/bisell.jpg", CreatedBy = "Admin" },
+                new Product { Id = 2, Name = "Bosch", Description = "Asus", Price = 12000, ImageUrl = "/images/bosch.jpg", CreatedBy = "Admin" }
             );
         }
     }
